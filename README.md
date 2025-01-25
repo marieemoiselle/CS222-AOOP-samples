@@ -1,5 +1,5 @@
 # Advanced Object-oriented Programming
-by: **Fatima Marie P. Agdon, MSCS**
+by: **Ms. Fatima Marie P. Agdon, MSCS**
 
 *Note: This is an ongoing repository. Changes may occur as the course progresses.*
 # ❣️ Greetings!
@@ -40,7 +40,7 @@ Welcome to **CS 222: Advanced Object-oriented Programming** course! In this cour
     - Recursive Functions
     - Functions with Arrays
     - Enumerations
-Lesson 5: **C# Object-oriented Programming Concepts**
+- Lesson 5: **C# Object-oriented Programming Concepts**
     - Class
     - Methods
     - Constructors
@@ -48,7 +48,7 @@ Lesson 5: **C# Object-oriented Programming Concepts**
     - Encapsulation, Inheritance, Abstract Class							
     - Interface, Polymorphism							
     - Exception Handling											
-Lesson 6: **C# File Handling and Windows Forms**
+- Lesson 6: **C# File Handling and Windows Forms**
     - File Handling - Create, Read, Update, and Delete File							
     - Accessing CSV Files							
     - C# Windows Forms							
@@ -57,7 +57,7 @@ Lesson 6: **C# File Handling and Windows Forms**
         - Buttons
         - TextBox Controls
         - Event Handlers							
-Lesson 7: **Controls, Dialogs, et cetera**				
+- Lesson 7: **Controls, Dialogs, et cetera**				
     - CheckBox
     - Radio Button
     - Group Box
