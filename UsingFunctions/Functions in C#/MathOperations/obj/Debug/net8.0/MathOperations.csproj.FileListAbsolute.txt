@@ -1,0 +1,15 @@
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\MathOperations\bin\Debug\net8.0\MathOperations.exe
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\MathOperations\bin\Debug\net8.0\MathOperations.deps.json
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\MathOperations\bin\Debug\net8.0\MathOperations.runtimeconfig.json
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\MathOperations\bin\Debug\net8.0\MathOperations.dll
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\MathOperations\bin\Debug\net8.0\MathOperations.pdb
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\MathOperations\obj\Debug\net8.0\MathOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\MathOperations\obj\Debug\net8.0\MathOperations.AssemblyInfoInputs.cache
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\MathOperations\obj\Debug\net8.0\MathOperations.AssemblyInfo.cs
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\MathOperations\obj\Debug\net8.0\MathOperations.csproj.CoreCompileInputs.cache
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\MathOperations\obj\Debug\net8.0\MathOperations.sourcelink.json
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\MathOperations\obj\Debug\net8.0\MathOperations.dll
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\MathOperations\obj\Debug\net8.0\refint\MathOperations.dll
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\MathOperations\obj\Debug\net8.0\MathOperations.pdb
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\MathOperations\obj\Debug\net8.0\MathOperations.genruntimeconfig.cache
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\MathOperations\obj\Debug\net8.0\ref\MathOperations.dll

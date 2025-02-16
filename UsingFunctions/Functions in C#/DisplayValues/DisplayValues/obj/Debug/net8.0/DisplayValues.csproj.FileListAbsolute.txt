@@ -1,0 +1,15 @@
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\DisplayValues\DisplayValues\obj\Debug\net8.0\DisplayValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\DisplayValues\DisplayValues\obj\Debug\net8.0\DisplayValues.AssemblyInfoInputs.cache
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\DisplayValues\DisplayValues\obj\Debug\net8.0\DisplayValues.AssemblyInfo.cs
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\DisplayValues\DisplayValues\obj\Debug\net8.0\DisplayValues.csproj.CoreCompileInputs.cache
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\DisplayValues\DisplayValues\obj\Debug\net8.0\DisplayValues.sourcelink.json
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\DisplayValues\DisplayValues\bin\Debug\net8.0\DisplayValues.exe
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\DisplayValues\DisplayValues\bin\Debug\net8.0\DisplayValues.deps.json
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\DisplayValues\DisplayValues\bin\Debug\net8.0\DisplayValues.runtimeconfig.json
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\DisplayValues\DisplayValues\bin\Debug\net8.0\DisplayValues.dll
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\DisplayValues\DisplayValues\bin\Debug\net8.0\DisplayValues.pdb
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\DisplayValues\DisplayValues\obj\Debug\net8.0\DisplayValues.dll
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\DisplayValues\DisplayValues\obj\Debug\net8.0\refint\DisplayValues.dll
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\DisplayValues\DisplayValues\obj\Debug\net8.0\DisplayValues.pdb
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\DisplayValues\DisplayValues\obj\Debug\net8.0\DisplayValues.genruntimeconfig.cache
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\DisplayValues\DisplayValues\obj\Debug\net8.0\ref\DisplayValues.dll

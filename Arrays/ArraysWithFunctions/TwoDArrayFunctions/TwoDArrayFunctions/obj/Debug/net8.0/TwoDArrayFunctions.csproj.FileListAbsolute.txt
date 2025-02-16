@@ -1,0 +1,15 @@
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Arrays\ArraysWithFunctions\TwoDArrayFunctions\TwoDArrayFunctions\bin\Debug\net8.0\TwoDArrayFunctions.exe
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Arrays\ArraysWithFunctions\TwoDArrayFunctions\TwoDArrayFunctions\bin\Debug\net8.0\TwoDArrayFunctions.deps.json
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Arrays\ArraysWithFunctions\TwoDArrayFunctions\TwoDArrayFunctions\bin\Debug\net8.0\TwoDArrayFunctions.runtimeconfig.json
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Arrays\ArraysWithFunctions\TwoDArrayFunctions\TwoDArrayFunctions\bin\Debug\net8.0\TwoDArrayFunctions.dll
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Arrays\ArraysWithFunctions\TwoDArrayFunctions\TwoDArrayFunctions\bin\Debug\net8.0\TwoDArrayFunctions.pdb
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Arrays\ArraysWithFunctions\TwoDArrayFunctions\TwoDArrayFunctions\obj\Debug\net8.0\TwoDArrayFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Arrays\ArraysWithFunctions\TwoDArrayFunctions\TwoDArrayFunctions\obj\Debug\net8.0\TwoDArrayFunctions.AssemblyInfoInputs.cache
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Arrays\ArraysWithFunctions\TwoDArrayFunctions\TwoDArrayFunctions\obj\Debug\net8.0\TwoDArrayFunctions.AssemblyInfo.cs
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Arrays\ArraysWithFunctions\TwoDArrayFunctions\TwoDArrayFunctions\obj\Debug\net8.0\TwoDArrayFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Arrays\ArraysWithFunctions\TwoDArrayFunctions\TwoDArrayFunctions\obj\Debug\net8.0\TwoDArrayFunctions.sourcelink.json
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Arrays\ArraysWithFunctions\TwoDArrayFunctions\TwoDArrayFunctions\obj\Debug\net8.0\TwoDArrayFunctions.dll
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Arrays\ArraysWithFunctions\TwoDArrayFunctions\TwoDArrayFunctions\obj\Debug\net8.0\refint\TwoDArrayFunctions.dll
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Arrays\ArraysWithFunctions\TwoDArrayFunctions\TwoDArrayFunctions\obj\Debug\net8.0\TwoDArrayFunctions.pdb
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Arrays\ArraysWithFunctions\TwoDArrayFunctions\TwoDArrayFunctions\obj\Debug\net8.0\TwoDArrayFunctions.genruntimeconfig.cache
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Arrays\ArraysWithFunctions\TwoDArrayFunctions\TwoDArrayFunctions\obj\Debug\net8.0\ref\TwoDArrayFunctions.dll

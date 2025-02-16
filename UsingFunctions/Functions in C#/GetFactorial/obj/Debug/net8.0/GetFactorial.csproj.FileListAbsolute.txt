@@ -1,0 +1,15 @@
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\GetFactorial\bin\Debug\net8.0\GetFactorial.exe
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\GetFactorial\bin\Debug\net8.0\GetFactorial.deps.json
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\GetFactorial\bin\Debug\net8.0\GetFactorial.runtimeconfig.json
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\GetFactorial\bin\Debug\net8.0\GetFactorial.dll
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\GetFactorial\bin\Debug\net8.0\GetFactorial.pdb
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\GetFactorial\obj\Debug\net8.0\GetFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\GetFactorial\obj\Debug\net8.0\GetFactorial.AssemblyInfoInputs.cache
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\GetFactorial\obj\Debug\net8.0\GetFactorial.AssemblyInfo.cs
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\GetFactorial\obj\Debug\net8.0\GetFactorial.csproj.CoreCompileInputs.cache
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\GetFactorial\obj\Debug\net8.0\GetFactorial.sourcelink.json
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\GetFactorial\obj\Debug\net8.0\GetFactorial.dll
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\GetFactorial\obj\Debug\net8.0\refint\GetFactorial.dll
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\GetFactorial\obj\Debug\net8.0\GetFactorial.pdb
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\GetFactorial\obj\Debug\net8.0\GetFactorial.genruntimeconfig.cache
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\GetFactorial\obj\Debug\net8.0\ref\GetFactorial.dll

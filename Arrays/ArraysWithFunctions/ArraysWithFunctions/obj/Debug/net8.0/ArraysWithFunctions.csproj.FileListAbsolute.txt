@@ -1,0 +1,15 @@
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Arrays\ArraysWithFunctions\ArraysWithFunctions\bin\Debug\net8.0\ArraysWithFunctions.exe
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Arrays\ArraysWithFunctions\ArraysWithFunctions\bin\Debug\net8.0\ArraysWithFunctions.deps.json
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Arrays\ArraysWithFunctions\ArraysWithFunctions\bin\Debug\net8.0\ArraysWithFunctions.runtimeconfig.json
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Arrays\ArraysWithFunctions\ArraysWithFunctions\bin\Debug\net8.0\ArraysWithFunctions.dll
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Arrays\ArraysWithFunctions\ArraysWithFunctions\bin\Debug\net8.0\ArraysWithFunctions.pdb
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Arrays\ArraysWithFunctions\ArraysWithFunctions\obj\Debug\net8.0\ArraysWithFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Arrays\ArraysWithFunctions\ArraysWithFunctions\obj\Debug\net8.0\ArraysWithFunctions.AssemblyInfoInputs.cache
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Arrays\ArraysWithFunctions\ArraysWithFunctions\obj\Debug\net8.0\ArraysWithFunctions.AssemblyInfo.cs
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Arrays\ArraysWithFunctions\ArraysWithFunctions\obj\Debug\net8.0\ArraysWithFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Arrays\ArraysWithFunctions\ArraysWithFunctions\obj\Debug\net8.0\ArraysWithFunctions.sourcelink.json
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Arrays\ArraysWithFunctions\ArraysWithFunctions\obj\Debug\net8.0\ArraysWithFunctions.dll
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Arrays\ArraysWithFunctions\ArraysWithFunctions\obj\Debug\net8.0\refint\ArraysWithFunctions.dll
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Arrays\ArraysWithFunctions\ArraysWithFunctions\obj\Debug\net8.0\ArraysWithFunctions.pdb
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Arrays\ArraysWithFunctions\ArraysWithFunctions\obj\Debug\net8.0\ArraysWithFunctions.genruntimeconfig.cache
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Arrays\ArraysWithFunctions\ArraysWithFunctions\obj\Debug\net8.0\ref\ArraysWithFunctions.dll

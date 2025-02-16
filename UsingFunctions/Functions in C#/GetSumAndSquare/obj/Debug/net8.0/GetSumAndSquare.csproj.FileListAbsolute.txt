@@ -1,0 +1,15 @@
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\GetSumAndSquare\obj\Debug\net8.0\GetSumAndSquare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\GetSumAndSquare\obj\Debug\net8.0\GetSumAndSquare.AssemblyInfoInputs.cache
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\GetSumAndSquare\obj\Debug\net8.0\GetSumAndSquare.AssemblyInfo.cs
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\GetSumAndSquare\obj\Debug\net8.0\GetSumAndSquare.csproj.CoreCompileInputs.cache
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\GetSumAndSquare\obj\Debug\net8.0\GetSumAndSquare.sourcelink.json
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\GetSumAndSquare\bin\Debug\net8.0\GetSumAndSquare.exe
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\GetSumAndSquare\bin\Debug\net8.0\GetSumAndSquare.deps.json
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\GetSumAndSquare\bin\Debug\net8.0\GetSumAndSquare.runtimeconfig.json
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\GetSumAndSquare\bin\Debug\net8.0\GetSumAndSquare.dll
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\GetSumAndSquare\bin\Debug\net8.0\GetSumAndSquare.pdb
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\GetSumAndSquare\obj\Debug\net8.0\GetSumAndSquare.dll
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\GetSumAndSquare\obj\Debug\net8.0\refint\GetSumAndSquare.dll
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\GetSumAndSquare\obj\Debug\net8.0\GetSumAndSquare.pdb
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\GetSumAndSquare\obj\Debug\net8.0\GetSumAndSquare.genruntimeconfig.cache
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\GetSumAndSquare\obj\Debug\net8.0\ref\GetSumAndSquare.dll

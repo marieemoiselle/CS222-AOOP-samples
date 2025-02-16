@@ -1,0 +1,15 @@
+c:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\SayHello\SayHello\bin\Debug\net8.0\SayHello.exe
+c:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\SayHello\SayHello\bin\Debug\net8.0\SayHello.deps.json
+c:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\SayHello\SayHello\bin\Debug\net8.0\SayHello.runtimeconfig.json
+c:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\SayHello\SayHello\bin\Debug\net8.0\SayHello.dll
+c:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\SayHello\SayHello\bin\Debug\net8.0\SayHello.pdb
+c:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\SayHello\SayHello\obj\Debug\net8.0\SayHello.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\SayHello\SayHello\obj\Debug\net8.0\SayHello.AssemblyInfoInputs.cache
+c:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\SayHello\SayHello\obj\Debug\net8.0\SayHello.AssemblyInfo.cs
+c:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\SayHello\SayHello\obj\Debug\net8.0\SayHello.csproj.CoreCompileInputs.cache
+c:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\SayHello\SayHello\obj\Debug\net8.0\SayHello.sourcelink.json
+c:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\SayHello\SayHello\obj\Debug\net8.0\SayHello.dll
+c:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\SayHello\SayHello\obj\Debug\net8.0\refint\SayHello.dll
+c:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\SayHello\SayHello\obj\Debug\net8.0\SayHello.pdb
+c:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\SayHello\SayHello\obj\Debug\net8.0\SayHello.genruntimeconfig.cache
+c:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\Functions in C#\SayHello\SayHello\obj\Debug\net8.0\ref\SayHello.dll
