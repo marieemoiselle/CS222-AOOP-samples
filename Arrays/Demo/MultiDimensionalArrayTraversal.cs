@@ -6,6 +6,7 @@ int[,] arr = {
 			{ 10, 20, 30, 40 }
 		};
 
+Console.WriteLine($"Element at arr[0,3]: {arr[0,3]}");
 int rows = arr.GetLength(0);
 int columns = arr.GetLength(1);
 

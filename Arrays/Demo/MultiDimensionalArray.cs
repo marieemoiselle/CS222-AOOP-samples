@@ -1,6 +1,7 @@
 using System;
 
 int[,] matrix = { { 9, 18, 27, 36 }, { 7, 14, 21, 28 }, { 8, 16, 24, 32 } };
+//int [][3]
 // type [row, column]  
 // Declaration and initialization of a two-dimensional array
 
@@ -16,4 +17,4 @@ Console.WriteLine();
 }
 
 Console.WriteLine($"Rows: {matrix.GetLength(0)}"); // 3 rows
-Console.WriteLine($"Columns: {matrix.GetLength(1)}"); /// 4 columns
+Console.WriteLine($"Columns: {matrix.GetLength(1)}"); // 4 columns

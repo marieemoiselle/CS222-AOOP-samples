@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DivisibleByTen/1.0.0": {
+        "runtime": {
+          "DivisibleByTen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DivisibleByTen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -9,7 +9,18 @@ class Program {
     }
 
     static void Main() {
-        int num = 10;
+        int num = 5;
         Console.WriteLine($"Factorial of {num} is: {Factorial(num)}");
     }
 }
+
+/*
+        n = 5
+        5 * Factorial(4)
+        4 * Factorial(3)
+        3 * Factorial(2)
+        2 * Factorial(1)
+
+
+
+*/

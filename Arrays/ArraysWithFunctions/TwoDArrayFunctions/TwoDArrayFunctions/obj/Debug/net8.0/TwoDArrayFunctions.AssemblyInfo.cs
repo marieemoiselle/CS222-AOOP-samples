@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TwoDArrayFunctions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e69a7c5d3c53945dd7602dc227fad759d9188851")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("TwoDArrayFunctions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TwoDArrayFunctions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

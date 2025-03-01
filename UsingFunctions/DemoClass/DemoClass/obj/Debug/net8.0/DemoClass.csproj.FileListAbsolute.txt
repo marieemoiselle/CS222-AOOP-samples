@@ -1,0 +1,15 @@
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\DemoClass\DemoClass\obj\Debug\net8.0\DemoClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\DemoClass\DemoClass\obj\Debug\net8.0\DemoClass.AssemblyInfoInputs.cache
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\DemoClass\DemoClass\obj\Debug\net8.0\DemoClass.AssemblyInfo.cs
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\DemoClass\DemoClass\obj\Debug\net8.0\DemoClass.csproj.CoreCompileInputs.cache
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\DemoClass\DemoClass\obj\Debug\net8.0\DemoClass.sourcelink.json
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\DemoClass\DemoClass\bin\Debug\net8.0\DemoClass.exe
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\DemoClass\DemoClass\bin\Debug\net8.0\DemoClass.deps.json
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\DemoClass\DemoClass\bin\Debug\net8.0\DemoClass.runtimeconfig.json
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\DemoClass\DemoClass\bin\Debug\net8.0\DemoClass.dll
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\DemoClass\DemoClass\bin\Debug\net8.0\DemoClass.pdb
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\DemoClass\DemoClass\obj\Debug\net8.0\DemoClass.dll
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\DemoClass\DemoClass\obj\Debug\net8.0\refint\DemoClass.dll
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\DemoClass\DemoClass\obj\Debug\net8.0\DemoClass.pdb
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\DemoClass\DemoClass\obj\Debug\net8.0\DemoClass.genruntimeconfig.cache
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\DemoClass\DemoClass\obj\Debug\net8.0\ref\DemoClass.dll

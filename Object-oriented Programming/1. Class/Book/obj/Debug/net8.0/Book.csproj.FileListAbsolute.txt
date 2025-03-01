@@ -1,0 +1,15 @@
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\1. Class\Book\obj\Debug\net8.0\Book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\1. Class\Book\obj\Debug\net8.0\Book.AssemblyInfoInputs.cache
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\1. Class\Book\obj\Debug\net8.0\Book.AssemblyInfo.cs
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\1. Class\Book\obj\Debug\net8.0\Book.csproj.CoreCompileInputs.cache
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\1. Class\Book\obj\Debug\net8.0\Book.sourcelink.json
+c:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\1. Class\Book\bin\Debug\net8.0\Book.exe
+c:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\1. Class\Book\bin\Debug\net8.0\Book.deps.json
+c:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\1. Class\Book\bin\Debug\net8.0\Book.runtimeconfig.json
+c:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\1. Class\Book\bin\Debug\net8.0\Book.dll
+c:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\1. Class\Book\bin\Debug\net8.0\Book.pdb
+c:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\1. Class\Book\obj\Debug\net8.0\Book.dll
+c:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\1. Class\Book\obj\Debug\net8.0\refint\Book.dll
+c:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\1. Class\Book\obj\Debug\net8.0\Book.pdb
+c:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\1. Class\Book\obj\Debug\net8.0\Book.genruntimeconfig.cache
+c:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\1. Class\Book\obj\Debug\net8.0\ref\Book.dll

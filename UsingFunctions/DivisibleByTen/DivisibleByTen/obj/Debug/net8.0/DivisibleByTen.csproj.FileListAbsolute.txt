@@ -1,0 +1,15 @@
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\DivisibleByTen\DivisibleByTen\bin\Debug\net8.0\DivisibleByTen.exe
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\DivisibleByTen\DivisibleByTen\bin\Debug\net8.0\DivisibleByTen.deps.json
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\DivisibleByTen\DivisibleByTen\bin\Debug\net8.0\DivisibleByTen.runtimeconfig.json
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\DivisibleByTen\DivisibleByTen\bin\Debug\net8.0\DivisibleByTen.dll
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\DivisibleByTen\DivisibleByTen\bin\Debug\net8.0\DivisibleByTen.pdb
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\DivisibleByTen\DivisibleByTen\obj\Debug\net8.0\DivisibleByTen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\DivisibleByTen\DivisibleByTen\obj\Debug\net8.0\DivisibleByTen.AssemblyInfoInputs.cache
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\DivisibleByTen\DivisibleByTen\obj\Debug\net8.0\DivisibleByTen.AssemblyInfo.cs
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\DivisibleByTen\DivisibleByTen\obj\Debug\net8.0\DivisibleByTen.csproj.CoreCompileInputs.cache
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\DivisibleByTen\DivisibleByTen\obj\Debug\net8.0\DivisibleByTen.sourcelink.json
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\DivisibleByTen\DivisibleByTen\obj\Debug\net8.0\DivisibleByTen.dll
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\DivisibleByTen\DivisibleByTen\obj\Debug\net8.0\refint\DivisibleByTen.dll
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\DivisibleByTen\DivisibleByTen\obj\Debug\net8.0\DivisibleByTen.pdb
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\DivisibleByTen\DivisibleByTen\obj\Debug\net8.0\DivisibleByTen.genruntimeconfig.cache
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\UsingFunctions\DivisibleByTen\DivisibleByTen\obj\Debug\net8.0\ref\DivisibleByTen.dll

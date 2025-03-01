@@ -1,0 +1,15 @@
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\3. Constructors\Student\obj\Debug\net8.0\Student.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\3. Constructors\Student\obj\Debug\net8.0\Student.AssemblyInfoInputs.cache
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\3. Constructors\Student\obj\Debug\net8.0\Student.AssemblyInfo.cs
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\3. Constructors\Student\obj\Debug\net8.0\Student.csproj.CoreCompileInputs.cache
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\3. Constructors\Student\obj\Debug\net8.0\Student.sourcelink.json
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\3. Constructors\Student\bin\Debug\net8.0\Student.exe
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\3. Constructors\Student\bin\Debug\net8.0\Student.deps.json
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\3. Constructors\Student\bin\Debug\net8.0\Student.runtimeconfig.json
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\3. Constructors\Student\bin\Debug\net8.0\Student.dll
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\3. Constructors\Student\bin\Debug\net8.0\Student.pdb
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\3. Constructors\Student\obj\Debug\net8.0\Student.dll
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\3. Constructors\Student\obj\Debug\net8.0\refint\Student.dll
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\3. Constructors\Student\obj\Debug\net8.0\Student.pdb
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\3. Constructors\Student\obj\Debug\net8.0\Student.genruntimeconfig.cache
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\3. Constructors\Student\obj\Debug\net8.0\ref\Student.dll
