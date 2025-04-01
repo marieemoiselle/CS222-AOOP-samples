@@ -1,0 +1,15 @@
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\4. Encapsulation\BankAccount\bin\Debug\net8.0\BankAccount.exe
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\4. Encapsulation\BankAccount\bin\Debug\net8.0\BankAccount.deps.json
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\4. Encapsulation\BankAccount\bin\Debug\net8.0\BankAccount.runtimeconfig.json
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\4. Encapsulation\BankAccount\bin\Debug\net8.0\BankAccount.dll
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\4. Encapsulation\BankAccount\bin\Debug\net8.0\BankAccount.pdb
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\4. Encapsulation\BankAccount\obj\Debug\net8.0\BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\4. Encapsulation\BankAccount\obj\Debug\net8.0\BankAccount.AssemblyInfoInputs.cache
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\4. Encapsulation\BankAccount\obj\Debug\net8.0\BankAccount.AssemblyInfo.cs
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\4. Encapsulation\BankAccount\obj\Debug\net8.0\BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\4. Encapsulation\BankAccount\obj\Debug\net8.0\BankAccount.sourcelink.json
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\4. Encapsulation\BankAccount\obj\Debug\net8.0\BankAccount.dll
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\4. Encapsulation\BankAccount\obj\Debug\net8.0\refint\BankAccount.dll
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\4. Encapsulation\BankAccount\obj\Debug\net8.0\BankAccount.pdb
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\4. Encapsulation\BankAccount\obj\Debug\net8.0\BankAccount.genruntimeconfig.cache
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\4. Encapsulation\BankAccount\obj\Debug\net8.0\ref\BankAccount.dll

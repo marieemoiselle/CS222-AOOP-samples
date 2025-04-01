@@ -1,0 +1,15 @@
+c:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\7. Abstraction\Appliance\Appliance\obj\Debug\net8.0\Appliance.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\7. Abstraction\Appliance\Appliance\obj\Debug\net8.0\Appliance.AssemblyInfoInputs.cache
+c:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\7. Abstraction\Appliance\Appliance\obj\Debug\net8.0\Appliance.AssemblyInfo.cs
+c:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\7. Abstraction\Appliance\Appliance\obj\Debug\net8.0\Appliance.csproj.CoreCompileInputs.cache
+c:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\7. Abstraction\Appliance\Appliance\obj\Debug\net8.0\Appliance.sourcelink.json
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\7. Abstraction\Appliance\Appliance\bin\Debug\net8.0\Appliance.exe
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\7. Abstraction\Appliance\Appliance\bin\Debug\net8.0\Appliance.deps.json
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\7. Abstraction\Appliance\Appliance\bin\Debug\net8.0\Appliance.runtimeconfig.json
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\7. Abstraction\Appliance\Appliance\bin\Debug\net8.0\Appliance.dll
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\7. Abstraction\Appliance\Appliance\bin\Debug\net8.0\Appliance.pdb
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\7. Abstraction\Appliance\Appliance\obj\Debug\net8.0\Appliance.dll
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\7. Abstraction\Appliance\Appliance\obj\Debug\net8.0\refint\Appliance.dll
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\7. Abstraction\Appliance\Appliance\obj\Debug\net8.0\Appliance.pdb
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\7. Abstraction\Appliance\Appliance\obj\Debug\net8.0\Appliance.genruntimeconfig.cache
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\Object-oriented Programming\7. Abstraction\Appliance\Appliance\obj\Debug\net8.0\ref\Appliance.dll
