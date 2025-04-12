@@ -1,0 +1,15 @@
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\File Handling\Sample Set 1\FileHandling1\bin\Debug\net8.0\FileHandling1.exe
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\File Handling\Sample Set 1\FileHandling1\bin\Debug\net8.0\FileHandling1.deps.json
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\File Handling\Sample Set 1\FileHandling1\bin\Debug\net8.0\FileHandling1.runtimeconfig.json
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\File Handling\Sample Set 1\FileHandling1\bin\Debug\net8.0\FileHandling1.dll
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\File Handling\Sample Set 1\FileHandling1\bin\Debug\net8.0\FileHandling1.pdb
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\File Handling\Sample Set 1\FileHandling1\obj\Debug\net8.0\FileHandling1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\File Handling\Sample Set 1\FileHandling1\obj\Debug\net8.0\FileHandling1.AssemblyInfoInputs.cache
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\File Handling\Sample Set 1\FileHandling1\obj\Debug\net8.0\FileHandling1.AssemblyInfo.cs
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\File Handling\Sample Set 1\FileHandling1\obj\Debug\net8.0\FileHandling1.csproj.CoreCompileInputs.cache
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\File Handling\Sample Set 1\FileHandling1\obj\Debug\net8.0\FileHandling1.sourcelink.json
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\File Handling\Sample Set 1\FileHandling1\obj\Debug\net8.0\FileHandling1.dll
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\File Handling\Sample Set 1\FileHandling1\obj\Debug\net8.0\refint\FileHandling1.dll
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\File Handling\Sample Set 1\FileHandling1\obj\Debug\net8.0\FileHandling1.pdb
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\File Handling\Sample Set 1\FileHandling1\obj\Debug\net8.0\FileHandling1.genruntimeconfig.cache
+C:\Users\Fatima Marie Agdon\projects\CS222-AOOP-samples\File Handling\Sample Set 1\FileHandling1\obj\Debug\net8.0\ref\FileHandling1.dll
