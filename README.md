@@ -1,8 +1,8 @@
-# Advanced Object-oriented Programming
+# CS 222 - Advanced Object-oriented Programming
 by: **Ms. Fatima Marie P. Agdon, MSCS**
 
 *Note: This is an ongoing repository. Changes may occur as the course progresses.*
-# ❣️ Greetings!
+# #️⃣ Greetings!
 Welcome to **CS 222: Advanced Object-oriented Programming** course! In this course, a comprehensive introduction to C# programming will be provided, covering fundamental concepts such as syntax, data types, and memory allocation, along with practical skills in input/output operations, decision-making, and iterative structures. Students will explore advanced topics like arrays, functions, object-oriented programming, and file handling, while also gaining hands-on experience with Windows Forms and GUI components. 
 
 # 🗺️ Roadmap
@@ -73,3 +73,7 @@ How to run the scripts:
 ```
 dotnet-script FileName.cs
 ```
+
+# 🔗 Links
+💙 <a href = "https://code.visualstudio.com/">Visual Studio Code</a><br/>
+💜 <a href = "https://visualstudio.microsoft.com/vs/community/">Visual Studio Community Edition</a>
