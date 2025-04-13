@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
 
 class Program
 {
@@ -14,12 +13,12 @@ class Program
         while (true)
         {
             Console.Clear();
-            Console.WriteLine("Notes Diary");
+            Console.WriteLine("--- NOTES DIARY ---");
             Console.WriteLine("1. Add an entry");
             Console.WriteLine("2. View all entries");
             Console.WriteLine("3. Modify an entry");
             Console.WriteLine("4. Delete an entry");
-            Console.WriteLine("5. Insert entry in between");
+            Console.WriteLine("5. Insert entry");
             Console.WriteLine("6. Exit");
             Console.Write("Enter your choice: ");
             string? choice = Console.ReadLine();
@@ -66,118 +65,92 @@ class Program
         if (input?.ToLower() == "x") return;
 
         string timestamp = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
-        File.AppendAllText(filePath, $"{timestamp}{Environment.NewLine}{input ?? string.Empty}{Environment.NewLine}");
+        File.AppendAllText(filePath, $"{timestamp} | {input}{Environment.NewLine}");
         Console.WriteLine("Entry added.");
         Pause();
     }
 
     static void ViewEntries()
     {
-        List<string> lines = File.ReadAllLines(filePath).ToList();
+        EnsureFileExists();
+        string[] lines = File.ReadAllLines(filePath);
 
-        if (lines.Count == 0)
+        if (lines.Length == 0)
         {
-            Console.WriteLine("No entries found.");
-            return;
+            Console.WriteLine("No entries yet.");
         }
-
-        int index = 1;
-        for (int i = 0; i < lines.Count; i += 2)
+        else
         {
-            if (i + 1 < lines.Count)
+            for (int i = 0; i < lines.Length; i++)
             {
-                Console.WriteLine($"[{index}]  {lines[i]}"); // timestamp
-                Console.WriteLine(lines[i + 1] ?? string.Empty); // entry text (default to empty if null)
-                Console.WriteLine(); // empty line between entries
-                index++;
+                Console.WriteLine($"{i + 1}. {lines[i]}");
             }
         }
+        Pause();
     }
 
     static void ModifyEntry()
     {
-        List<string> lines = File.ReadAllLines(filePath).ToList();
+        string[] lines = File.ReadAllLines(filePath);
 
-        if (lines.Count == 0)
+        if (lines.Length == 0)
         {
-            Console.WriteLine("No entries found.");
+            Console.WriteLine("No entries to modify.");
+            Pause();
             return;
         }
 
-        // Display all entries for selection
         ViewEntries();
+        Console.Write("Enter entry number to modify (x to cancel): ");
+        string? input = Console.ReadLine();
+        if (input?.ToLower() == "x") return;
 
-        Console.Write("Enter the index of the entry to modify: ");
-        string input = Console.ReadLine() ?? string.Empty; // Default to empty string if null
-
-        // If 'X' or 'x' is pressed, exit modification
-        if (input.ToLower() == "x")
+        if (int.TryParse(input, out int index) && index > 0 && index <= lines.Length)
         {
-            return;
-        }
+            Console.Write("Enter new text: ");
+            string? newText = Console.ReadLine();
+            if (newText?.ToLower() == "x") return;
 
-        if (int.TryParse(input, out int index) && index >= 1 && index <= lines.Count / 2)
-        {
-            int lineIndex = (index - 1) * 2; // Multiply by 2 because each entry has 2 lines (timestamp + content)
-
-            // Modify the timestamp (first line of the entry)
             string timestamp = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
-            lines[lineIndex] = timestamp;
-
-            // Modify the entry text (second line of the entry)
-            Console.Write("Enter the new text for the entry: ");
-            string newText = Console.ReadLine() ?? string.Empty; // Default to empty string if null
-
-            // Replace the second line with the new text
-            lines[lineIndex + 1] = newText;
-
-            // Write the modified entries back to the file
+            lines[index - 1] = $"{timestamp} | {newText}";
             File.WriteAllLines(filePath, lines);
-
-            Console.WriteLine("Entry modified successfully.");
+            Console.WriteLine("Entry updated.");
         }
         else
         {
             Console.WriteLine("Invalid entry number.");
         }
+        Pause();
     }
 
     static void DeleteEntry()
     {
-        List<string> lines = File.ReadAllLines(filePath).ToList();
+        string[] lines = File.ReadAllLines(filePath);
 
-        if (lines.Count == 0)
+        if (lines.Length == 0)
         {
-            Console.WriteLine("No entries found.");
+            Console.WriteLine("No entries to delete.");
+            Pause();
             return;
         }
 
-        // Display all entries for selection
         ViewEntries();
+        Console.Write("Enter entry number to delete (x to cancel): ");
+        string? input = Console.ReadLine();
+        if (input?.ToLower() == "x") return;
 
-        Console.Write("Enter the index of the entry to delete: ");
-        string input = Console.ReadLine() ?? string.Empty; // Default to empty string if null
-
-        // If 'X' or 'x' is pressed, exit deletion
-        if (input.ToLower() == "x")
+        if (int.TryParse(input, out int index) && index > 0 && index <= lines.Length)
         {
-            return;
-        }
-
-        if (int.TryParse(input, out int index) && index >= 1 && index <= lines.Count / 2)
-        {
-            int lineIndex = (index - 1) * 2; // Multiply by 2 because each entry has 2 lines (timestamp + content)
-
-            // Remove both the timestamp and the entry text
-            lines.RemoveAt(lineIndex);      // Remove timestamp
-            lines.RemoveAt(lineIndex);      // Remove entry text (same index because we removed the timestamp first)
-            File.WriteAllLines(filePath, lines);
-            Console.WriteLine("Entry deleted successfully.");
+            List<string> updatedLines = new List<string>(lines);
+            updatedLines.RemoveAt(index - 1);
+            File.WriteAllLines(filePath, updatedLines);
+            Console.WriteLine("Entry deleted.");
         }
         else
         {
             Console.WriteLine("Invalid entry number.");
         }
+        Pause();
     }
 
     static void InsertEntry()
@@ -198,8 +171,7 @@ class Program
             string timestamp = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
 
             List<string> updated = new List<string>(lines);
-            updated.Insert(index * 2, timestamp);
-            updated.Insert(index * 2 + 1, newEntry ?? string.Empty); // Ensure no null values are inserted
+            updated.Insert(index, $"{timestamp} | {newEntry}");
             File.WriteAllLines(filePath, updated);
             Console.WriteLine("Entry inserted.");
         }
@@ -212,7 +184,7 @@ class Program
 
     static void Pause()
     {
-        Console.WriteLine("\nPress any key to continue...");
+        Console.WriteLine("Press any key to continue...");
         Console.ReadKey();
     }
 }
