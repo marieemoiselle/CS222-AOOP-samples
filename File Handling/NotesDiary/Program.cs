@@ -41,6 +41,7 @@ class Program
                     InsertEntry();
                     break;
                 case "6":
+                    ExitDiary();
                     return;
                 default:
                     Console.WriteLine("Invalid choice!");
@@ -179,6 +180,12 @@ class Program
         {
             Console.WriteLine("Invalid index.");
         }
+        Pause();
+    }
+
+    static void ExitDiary()
+    {
+        Console.WriteLine("This has been your diary! :)");
         Pause();
     }
 
